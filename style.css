@@ -1,0 +1,41 @@
+h1{
+    color: rgb(251, 249, 249);
+    text-align: center;
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+{
+    /*border: solid;*/
+}
+.Titulo{
+    background-color: #000000;
+}
+.Jogos{
+    display: flex;
+    justify-content:space-around;
+}
+body{
+    background-color: #000000;
+    
+}
+.Repositorio a{
+    font-size:x-large;
+}   
+a:visited{
+    color: #ff00ff;
+}
+.Item{
+    text-align: center;
+    position:relative;
+    padding: 50px;
+}
+.Item:hover{
+    opacity: calc(0.5);
+}
+.Fundo{
+    background-image: url("https://img.wallpapic-br.com/i657-935-619/thumb/coloridos-azuis-arte-digital-imagem-de-fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 950px;
+}
